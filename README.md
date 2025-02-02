@@ -42,7 +42,7 @@ playwright-api-testing/ │-- src/ │ ├── test/ │ │ ├── GetUser
 Make sure **Java 11+** and **Maven** are installed.  
 
 1️⃣ Clone the Repository  
-git clone https://github.com/yourusername/playwright-api-testing.git
+git clone https://github.com/KalpeshJain18/APITesting/tree/main
 cd playwright-api-testing
 
 2️⃣ Install Dependencies
